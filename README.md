@@ -1,4 +1,4 @@
-#Computer Science & Engineer
+Computer Science & Engineer
 
 ###Education
 B.Sc. in CSE
